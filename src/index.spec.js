@@ -15,9 +15,9 @@ export default {
       ],
     })
     await new Builder(nuxt).build()
-    await nuxt.server.listen(3000, 'localhost')
+    await nuxt.listen()
     expect(axios.get('http://localhost:3000/api/foo') |> await |> property('data')).toEqual({ foo: 'bar' })
-    nuxt.server.close()
+    nuxt.close()
   },
   'top-level option': async () => {
     const nuxt = new Nuxt({
@@ -32,9 +32,9 @@ export default {
       },
     })
     await new Builder(nuxt).build()
-    await nuxt.server.listen(3000, 'localhost')
+    await nuxt.listen()
     expect(axios.get('http://localhost:3000/api/foo') |> await |> property('data')).toEqual({ foo: 'bar' })
-    nuxt.server.close()
+    nuxt.close()
   },
   query: async () => {
     const nuxt = new Nuxt({
@@ -49,8 +49,8 @@ export default {
       },
     })
     await new Builder(nuxt).build()
-    await nuxt.server.listen(3000, 'localhost')
+    await nuxt.listen()
     expect(axios.get('http://localhost:3000/api/foo?bar=baz') |> await |> property('data')).toEqual('baz')
-    nuxt.server.close()
+    nuxt.close()
   },
 }
