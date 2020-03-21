@@ -1,9 +1,9 @@
 <!-- TITLE/ -->
-# nuxt-express-server-middleware
+# @dword-design/nuxt-express-server
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-[![NPM version](https://img.shields.io/npm/v/nuxt-express-server-middleware.svg)](https://npmjs.org/package/nuxt-express-server-middleware)
+[![NPM version](https://img.shields.io/npm/v/@dword-design/nuxt-express-server.svg)](https://npmjs.org/package/@dword-design/nuxt-express-server)
 ![Linux macOS Windows compatible](https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue)
 [![Build status](https://img.shields.io/github/workflow/status/dword-design/nuxt-express-server/build)](https://github.com/dword-design/nuxt-express-server/actions)
 [![Coverage status](https://img.shields.io/coveralls/dword-design/nuxt-express-server)](https://coveralls.io/github/dword-design/nuxt-express-server)
@@ -22,10 +22,10 @@
 
 ```bash
 # NPM
-$ npm install nuxt-express-server-middleware
+$ npm install @dword-design/nuxt-express-server
 
 # Yarn
-$ yarn add nuxt-express-server-middleware
+$ yarn add @dword-design/nuxt-express-server
 ```
 <!-- /INSTALL -->
 
