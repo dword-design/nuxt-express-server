@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/dword-design/nuxt-express-server/compare/v1.0.1...v1.0.2) (2020-12-02)
+
+
+### Bug Fixes
+
+* **config:** Update changed files ([cc004ab](https://github.com/dword-design/nuxt-express-server/commit/cc004abca04253ae9ce8a52f315d8e8854cecf41))
+
 ## [1.0.1](https://github.com/dword-design/nuxt-express-server/compare/v1.0.0...v1.0.1) (2020-08-23)
 
 
