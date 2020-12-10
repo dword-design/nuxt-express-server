@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/dword-design/nuxt-express-server/compare/v1.0.2...v1.0.3) (2020-12-10)
+
+
+### Bug Fixes
+
+* **deps:** update dependency axios to ^0.21.0 ([3ecdda6](https://github.com/dword-design/nuxt-express-server/commit/3ecdda69e21b317b8ea3d4cfd7437180d3f8ce1e))
+
 ## [1.0.2](https://github.com/dword-design/nuxt-express-server/compare/v1.0.1...v1.0.2) (2020-12-02)
 
 
