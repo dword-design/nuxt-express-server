@@ -1,3 +1,11 @@
+## [1.0.4](https://github.com/dword-design/nuxt-express-server/compare/v1.0.3...v1.0.4) (2021-02-17)
+
+
+### Bug Fixes
+
+* reset nuxt version ([e0e7ee3](https://github.com/dword-design/nuxt-express-server/commit/e0e7ee37bb8ec3d547ab011351992616441076f3))
+* upgrades ([7ec92e8](https://github.com/dword-design/nuxt-express-server/commit/7ec92e84444e69549692de7a6031a56d17d343e5))
+
 ## [1.0.3](https://github.com/dword-design/nuxt-express-server/compare/v1.0.2...v1.0.3) (2020-12-10)
 
 
