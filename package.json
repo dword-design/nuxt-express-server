@@ -10,7 +10,7 @@
     "dist"
   ],
   "scripts": {
-    "clean": "base clean",
+    "check-unknown-files": "base check-unknown-files",
     "commit": "base commit",
     "dev": "base dev",
     "lint": "base lint",
@@ -23,7 +23,7 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
-    "@dword-design/base": "^6.2.4",
+    "@dword-design/base": "^7.0.0",
     "axios": "^0.21.0",
     "nuxt": "^2.12.0",
     "with-local-tmp-dir": "^2.2.11"
