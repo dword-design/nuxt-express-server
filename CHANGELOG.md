@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/dword-design/nuxt-express-server/compare/v1.0.4...v1.0.5) (2021-03-09)
+
+
+### Bug Fixes
+
+* update dependency nuxt to ~2.15.0 ([ee31c54](https://github.com/dword-design/nuxt-express-server/commit/ee31c545a863581e3b55eb289cca323f38babce5))
+
 ## [1.0.4](https://github.com/dword-design/nuxt-express-server/compare/v1.0.3...v1.0.4) (2021-02-17)
 
 
