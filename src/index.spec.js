@@ -7,6 +7,7 @@ export default {
   query: () =>
     withLocalTmpDir(async () => {
       const nuxt = new Nuxt({
+        createRequire: 'native',
         dev: false,
         expressServer: {
           routes: {
