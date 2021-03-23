@@ -20,7 +20,7 @@
     "test": "base test"
   },
   "dependencies": {
-    "@dword-design/functions": "^1.1.1",
+    "@dword-design/functions": "^3.0.0",
     "express": "^4.17.1"
   },
   "devDependencies": {
