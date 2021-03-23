@@ -1,3 +1,10 @@
+## [1.0.8](https://github.com/dword-design/nuxt-express-server/compare/v1.0.7...v1.0.8) (2021-03-23)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v3 ([#12](https://github.com/dword-design/nuxt-express-server/issues/12)) ([de0eb3a](https://github.com/dword-design/nuxt-express-server/commit/de0eb3a96e3b66ca31b2485e9829775b8dd5c23d))
+
 ## [1.0.7](https://github.com/dword-design/nuxt-express-server/compare/v1.0.6...v1.0.7) (2021-03-22)
 
 
