@@ -1,3 +1,10 @@
+## [1.0.10](https://github.com/dword-design/nuxt-express-server/compare/v1.0.9...v1.0.10) (2021-04-12)
+
+
+### Bug Fixes
+
+* lock file maintenance ([#15](https://github.com/dword-design/nuxt-express-server/issues/15)) ([08b5a34](https://github.com/dword-design/nuxt-express-server/commit/08b5a3467c89101f42604f200428c8cfcc9e00fc))
+
 ## [1.0.9](https://github.com/dword-design/nuxt-express-server/compare/v1.0.8...v1.0.9) (2021-03-31)
 
 
