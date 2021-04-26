@@ -1,3 +1,10 @@
+## [1.0.13](https://github.com/dword-design/nuxt-express-server/compare/v1.0.12...v1.0.13) (2021-04-26)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v3 ([#20](https://github.com/dword-design/nuxt-express-server/issues/20)) ([31a7011](https://github.com/dword-design/nuxt-express-server/commit/31a701105d7fc76df74eae240ebdbd7750340fc4))
+
 ## [1.0.12](https://github.com/dword-design/nuxt-express-server/compare/v1.0.11...v1.0.12) (2021-04-22)
 
 
