@@ -1,3 +1,10 @@
+## [1.0.14](https://github.com/dword-design/nuxt-express-server/compare/v1.0.13...v1.0.14) (2021-04-28)
+
+
+### Bug Fixes
+
+* updated package.json[description] ([#23](https://github.com/dword-design/nuxt-express-server/issues/23)) ([21a36fe](https://github.com/dword-design/nuxt-express-server/commit/21a36fed1baab5568fba8867b584d7f4053d6d3a))
+
 ## [1.0.13](https://github.com/dword-design/nuxt-express-server/compare/v1.0.12...v1.0.13) (2021-04-26)
 
 
