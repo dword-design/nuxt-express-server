@@ -1,3 +1,10 @@
+## [2.0.2](https://github.com/dword-design/nuxt-express-server/compare/v2.0.1...v2.0.2) (2021-05-04)
+
+
+### Bug Fixes
+
+* update dependency with-local-tmp-dir to v4 ([#28](https://github.com/dword-design/nuxt-express-server/issues/28)) ([3fe271c](https://github.com/dword-design/nuxt-express-server/commit/3fe271ca34c539bf4e127ef27dabc6ff394138eb))
+
 ## [2.0.1](https://github.com/dword-design/nuxt-express-server/compare/v2.0.0...v2.0.1) (2021-05-04)
 
 
