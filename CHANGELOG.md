@@ -1,3 +1,10 @@
+## [2.0.9](https://github.com/dword-design/nuxt-express-server/compare/v2.0.8...v2.0.9) (2022-01-12)
+
+
+### Bug Fixes
+
+* update config files ([d049c3c](https://github.com/dword-design/nuxt-express-server/commit/d049c3c0c60b4893f39cc9bb74dca63777d77dbf))
+
 ## [2.0.8](https://github.com/dword-design/nuxt-express-server/compare/v2.0.7...v2.0.8) (2022-01-04)
 
 
