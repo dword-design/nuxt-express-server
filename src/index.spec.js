@@ -3,18 +3,19 @@ import axios from 'axios'
 import { Builder, Nuxt } from 'nuxt'
 import withLocalTmpDir from 'with-local-tmp-dir'
 
+import self from './index.js'
+
 export default {
   query: () =>
     withLocalTmpDir(async () => {
       const nuxt = new Nuxt({
-        createRequire: 'native',
         dev: false,
         expressServer: {
           routes: {
             '/foo': (req, res) => res.send(req.query.bar),
           },
         },
-        modules: [require.resolve('.')],
+        modules: [self],
       })
       await new Builder(nuxt).build()
       await nuxt.listen()
@@ -34,7 +35,7 @@ export default {
             '/foo': (req, res) => res.send({ foo: 'bar' }),
           },
         },
-        modules: [require.resolve('.')],
+        modules: [self],
       })
       await new Builder(nuxt).build()
       await nuxt.listen()
@@ -49,7 +50,7 @@ export default {
         dev: false,
         modules: [
           [
-            require.resolve('.'),
+            self,
             {
               routes: {
                 '/foo': (req, res) => res.send({ foo: 'bar' }),
