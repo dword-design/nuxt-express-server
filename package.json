@@ -28,7 +28,7 @@
   "devDependencies": {
     "@dword-design/base": "^9.2.0",
     "axios": "^1.2.2",
-    "nuxt": "~2.15.0",
+    "nuxt": "~3.2.0",
     "with-local-tmp-dir": "^4.0.0"
   },
   "engines": {
